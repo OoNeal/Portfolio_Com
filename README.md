@@ -52,10 +52,10 @@ Cependant, je dois admettre que les travaux de groupe étaient une facette moins
   <img src="ressources/Timely.png" width="350">
 ## Projet Personnel StudIncursion (Maquette)
 [Projet Personnel StudIncursion](ressources/StudIncursion.jpg)
-  <img src="ressources/StudIncursion.png" width="350" title="hover text">
+  <img src="ressources/StudIncursion.jpg" width="350" title="hover text">
 ## Projet Personnel Swapply (Maquette)
 [Projet Personnel Swapply](ressources/Swapply.jpg)
-  <img src="ressources/Swapply.png" width="350" title="hover text">
+  <img src="ressources/Swapply.jpg" width="350" title="hover text">
 ## Projet Personnel Movie Ticket Booking (Maquette)
 [Projet Personnel Movie Ticket Booking](ressources/Movie.jpg)
   <img src="ressources/Movie.jpg" width="350" title="hover text">
