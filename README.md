@@ -48,7 +48,7 @@ Cependant, je dois admettre que les travaux de groupe étaient une facette moins
 ## 3) Ressources
 
 ## Projet Timely (fait en Vue.JS)
-[Projet Timely (Vue.JS)](ressources/Timely.jpg)
+[Projet Timely (Vue.JS)](ressources/Timely.png)
 ## Projet Personnel StudIncursion (Maquette)
 [Projet Personnel StudIncursion](ressources/StudIncursion.jpg)
 ## Projet Personnel Swapply (Maquette)
