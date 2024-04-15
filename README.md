@@ -48,13 +48,13 @@ Cependant, je dois admettre que les travaux de groupe étaient une facette moins
 ## 3) Ressources
 
 ## Projet Timely (fait en Vue.JS)
-[Projet Timely (Vue.JS)](ressouces/Timely.jpg)
+[Projet Timely (Vue.JS)](ressources/Timely.jpg)
 ## Projet Personnel StudIncursion (Maquette)
-[Projet Personnel StudIncursion](ressouces/StudIncursion.jpg)
+[Projet Personnel StudIncursion](ressources/StudIncursion.jpg)
 ## Projet Personnel Swapply (Maquette)
-[Projet Personnel Swapply](ressouces/Swapply.jpg)
+[Projet Personnel Swapply](ressources/Swapply.jpg)
 ## Projet Personnel Movie Ticket Booking (Maquette)
-[Projet Personnel Movie Ticket Booking](ressouces/Movie.jpg)
+[Projet Personnel Movie Ticket Booking](ressources/Movie.jpg)
 
 ## 4) GitHub
 
